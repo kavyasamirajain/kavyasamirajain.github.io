@@ -975,6 +975,8 @@
 		color: rgba(255, 255, 255, 0.75);
 		cursor: default;
 		text-align: center;
+		font-weight: 900;
+		font-style: italic;
 	}
 
 		#footer .copyright {
@@ -985,6 +987,8 @@
 			list-style: none;
 			/* font-weight:bold; */
 			font-weight: 900;
+			font-style: italic;
+
 		}
 
 			#footer .copyright li {
