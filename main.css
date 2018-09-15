@@ -975,8 +975,7 @@
 		color: rgba(255, 255, 255, 0.75);
 		cursor: default;
 		text-align: center;
-		font-weight: 900;
-		font-style: italic;
+		
 	}
 
 		#footer .copyright {
@@ -1002,6 +1001,8 @@
 				#footer .copyright li:first-child {
 					border-left: 0;
 				}
+
+
 
 /* Wrapper */
 
