@@ -983,7 +983,7 @@
 			color: white;
 			font-size: 2em;
 			list-style: none;
-			font-weight:bold;
+			/* font-weight:bold; */
 			font-weight: 900;
 		}
 
