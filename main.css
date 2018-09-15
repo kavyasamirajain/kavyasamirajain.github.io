@@ -199,8 +199,10 @@
 			color: #ff7496;
 		}
 
+/* COMMENTING OUT THE BOLD LINE OF CODE HERE 
+
 	strong, b {
-		color: #313f47;
+		color: #313f47; */
 	}
 
 	em, i {
@@ -518,7 +520,13 @@
 		opacity: 1.0;
 	}
 
-/* Icon */
+/* Icon */ 
+
+	.icon {
+	
+	    	text-decoration: underline;
+	
+	}
 
 /* COMMENT OUT TWO 
 	.icon {
@@ -973,7 +981,7 @@
 			margin: 0;
 			padding: 0;
 			color: white;
-			font-size: 1.3em;
+			font-size: 2em;
 			list-style: none;
 			font-weight:bold;
 		}
