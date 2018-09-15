@@ -965,6 +965,10 @@
 
 /* FOOTER HERE */
 
+.icons{
+text-decoration: underline;
+}
+
 	#footer {
 		-moz-align-self: -moz-flex-end;
 		-webkit-align-self: -webkit-flex-end;
