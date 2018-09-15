@@ -975,6 +975,7 @@
 		color: rgba(255, 255, 255, 0.75);
 		cursor: default;
 		text-align: center;
+		text-decoration: underline;
 		
 	}
 
@@ -988,6 +989,7 @@
 			/* font-weight:bold; */
 			font-weight: 600;
 			font-style: italic;
+			text-decoration: none;
 
 		}
 
